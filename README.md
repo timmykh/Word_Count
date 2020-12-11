@@ -11,5 +11,8 @@ Le projet consiste à :
 
 
 
+Ce code a pour objectif de compter le nombre d'occurence des mots contenus dans un texte. Nous l'avons appliquer au fichier sample.txt.
+Dans le cmd, il suffit d'écrire cette commande pour compiler avec Spark le programme. Néanmoins il faut enregistrer ua préalable le  fichier python dans le dossier source.
+
 
 ![Sans titre](https://user-images.githubusercontent.com/71505484/101960495-da4f4d80-3c07-11eb-8a66-6c97d4910743.png)
