@@ -6,3 +6,4 @@ Le projet consiste à :
 4- Affichage du résultat du comptage sous la forme de Tuple (clé, valeur) 
 5- faire un export de la RDD résultante sous format txt dans un nouveau répertoire indication (rdd.coalesce(1).saveAsTextFile("Path to new File")) 
 (Bonus) 6- Rédiger une documentation avec une capture de la console.
+https://github.com/timmykh/Word_Count/issues/1#issue-762984904
