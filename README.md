@@ -1,5 +1,6 @@
 # Word_Count
 Le projet consiste à :
+
 1- Instancier l'API de spark pour les RDD (spark context). 
 2- Importer le fichier sample.txt (pas de path en dur)
 3- Réalisation  du word count.
