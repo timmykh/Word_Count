@@ -15,6 +15,7 @@
   • Dans le CMD, il suffit d'écrire cette commande pour compiler avec Spark le programme. Néanmoins il faut enregistrer ua préalable le  fichier python dans le dossier source.
 
  ![Sans titre1](https://user-images.githubusercontent.com/71505484/101961127-57c78d80-3c09-11eb-82f5-bdd9a1b37b24.png)
+ ![Sans titre2](https://user-images.githubusercontent.com/71505484/101961897-07e9c600-3c0b-11eb-9a61-0fbcab3037e5.png)
  
   • Les résultats sont alors affichés dans la console CMD.
 
