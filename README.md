@@ -1,4 +1,5 @@
 # Word_Count
+
 Le projet consiste à :
 
 1- Instancier l'API de spark pour les RDD (spark context). 
