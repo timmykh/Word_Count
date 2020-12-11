@@ -2,7 +2,7 @@
 
 Le projet consiste à :
 
-  1- Instancier l'API de spark pour les RDD (spark context). 
+ 1- Instancier l'API de spark pour les RDD (spark context). 
   2- Importer le fichier sample.txt (pas de path en dur)
   3- Réalisation  du word count.
   4- Affichage du résultat du comptage sous la forme de Tuple (clé, valeur) 
